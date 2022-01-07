@@ -9,7 +9,7 @@
 **2.** Clone your fork copy of the project which will be visible in your account.
 
 ```
-git clone  https://github.com/<your username>/Student-portal
+git clone  https://github.com/<your username>/Stock-Predictions
 ```
 
 **3.** Add a remote upstream to the original repository.
