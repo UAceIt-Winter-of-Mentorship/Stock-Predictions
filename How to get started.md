@@ -46,7 +46,7 @@ git checkout -b <your_branch_name>
 git add . 
 ```
 
-**9.** Commit your changes.
+**9.** Commit your changes
 
 ```
 git commit -m "Message related to changes you made in the code"
