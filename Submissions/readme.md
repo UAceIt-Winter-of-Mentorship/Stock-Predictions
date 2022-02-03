@@ -1,3 +1,3 @@
 # SUBMISSIONS 
 
-Hey guys, pls submit your colab notebooks in this folder ! 
+Hey guys, pls submit your final projects in this folder ! 
